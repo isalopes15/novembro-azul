@@ -1,1 +1,57 @@
+<!DOCTYPE html> 
+<html lang="pt-BR">
+<head> 
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     <title>Importância do Exame de Próstata</title> 
+     <link rel="stylesheet" href="style.css">  
+</head>
+<body>
+     <header>
+          <img src= "https://drive.google.com/file/d/1Fbg5Gd9mbuVAdFVBjRCWpCa5Jaflp89N/view?usp=classroom_web&authuser=0" alt="Campanha Novembro Azul" class="banner">
+          <h1>Importância do Exame de Próstata</h1>
+     </header>
+
+     <div class="container">
+         <h2>Poe que é importante fazer exame?</h2>
+         <p> O exame de próstata é essencial para a detecção prococe do câncer, aumentando as chances de um tratamento eficaz.</p>
+         <p> Ao detectar a doença em estágios iniciais, as opções de tratamento são mais eficazes e menos invasivas. Não ignore ssua saúde, cuide-se!</p>
+         <a href="index.html" class="button"> Voltar para a Página Princípal</a>
+    </div>
+
+    <-- Nova seção com imagens -->
+    <div class="image-section">
+        <h2>Imagens Informativas</h2>
+        <div class="image-gallery">
+            <div class="image-item">
+                <img src="apoio.png" alt="Exame médico de prevenção">
+                <p>Prevenção é a melhor atitude</p>
+           </div>
+           <div class="iamge-item">
+                <img src="https://drive.google.com/file/d/1x8icBRta_HP2HyZm5mT_0YeYRSJ0rT8i/view?usp=classroom_web&authuser=0 alt="Consulta médica para exames preventivos>
+                <p>A importância de consultar um especialista</p>
+           </div>
+           <div class="image-item">
+                <img src="unidos.png" alt="Campanha Outubro Azul">
+                <p>Campanha em prol da saúde do homem</p>
+           </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
 
